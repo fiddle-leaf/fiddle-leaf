@@ -7,3 +7,5 @@
 - :pencil: Student at Per Scholas
 - :sparkling_heart: Color Accessibility in Web Design
 - :love_letter: Follow me on my Journey in User Interface
+## Tools:
+- HTML, CSS, JavaScript, React.js, SASS
