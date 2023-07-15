@@ -6,7 +6,7 @@
     height="auto">
 <ul style="list-style:none;">
     <li>:heart_decoration: I'm Shanon, 26, July Cancer.
-    <li>:books: Student at Per Scholas: [School Respository](/coding-exercises/)
+    <li>:books: Student at Per Scholas: [School Respository](https://github.com/fiddle-leaf/coding-exercises)
     <li>:sparkling_heart: Passions: Color Accessibility in Web Design, House plants, and chocolate.
     <li>:memo: Follow me on my UI journey.
 <ul>
