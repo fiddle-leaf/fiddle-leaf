@@ -1,9 +1,9 @@
-# Hello! Welcome.
-<div style="float: right">
-    <img src="https://media1.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47igssvg13j6rbt1djxrsf243wjplk66797asx50ge&ep=v1_stickers_search&rid=giphy.gif" style="width: 1em">
-    <ul style="float:left">
-        <li>I am Shanon, 26, and Cancer moonchild.
-        <li>Software Engineer student at Per Scholas.
-        <li>I am passionate about color theory and color accessbility in Web Design
-        <li>Follow me on my journey into Front-end Development.
-    </ul>
+# fiddle-leaf: software engineering student.
+<img alig="right"
+    src="https://media0.giphy.com/media/wpQbnFOYFnWXATZOxR/giphy.gif?cid=ecf05e47jzbki8392xggokth3sohymunz75y2q3qzjuikl1t&ep=v1_stickers_search&rid=giphy.gif"
+    alt="Pusheen(grey kitty) laughing with house plants in the background"
+    width="8em">
+- I'm Shanon, 26, July Cancer.
+- Student at Per Scholas (projects under 'coding-exercises' repository)
+- Passions: Color Accessibility in Web Design, House plants, and chocolate.
+- Follow me on my UI journey.
