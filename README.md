@@ -4,9 +4,9 @@
     alt="Pusheen(grey kitty) laughing with house plants in the background"
     width="25%"
     height="auto">
-<span>
-    - :heart_decoration: I'm Shanon, 26, July Cancer.
-    - :books: Student at Per Scholas (projects under 'coding-exercises' repository)
-    - :sparkling_heart: Passions: Color Accessibility in Web Design, House plants, and chocolate.
-    - :memo: Follow me on my UI journey.
-</span>
+<ul style="list-type:none">
+    <li>:heart_decoration: I'm Shanon, 26, July Cancer.
+    <li>:books: Student at Per Scholas (projects under 'coding-exercises' repository)
+    <li>:sparkling_heart: Passions: Color Accessibility in Web Design, House plants, and chocolate.
+    <li>:memo: Follow me on my UI journey.
+<ul>
