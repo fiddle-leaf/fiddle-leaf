@@ -5,8 +5,8 @@
     width="25%"
     height="auto">
 <span>
-    :heart_decoration: I'm Shanon, 26, July Cancer.
-    :books: Student at Per Scholas (projects under 'coding-exercises' repository)
-    :sparkling_heart: Passions: Color Accessibility in Web Design, House plants, and chocolate.
-    :memo: Follow me on my UI journey.
+    - :heart_decoration: I'm Shanon, 26, July Cancer.
+    - :books: Student at Per Scholas (projects under 'coding-exercises' repository)
+    - :sparkling_heart: Passions: Color Accessibility in Web Design, House plants, and chocolate.
+    - :memo: Follow me on my UI journey.
 </span>
