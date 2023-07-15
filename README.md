@@ -1,6 +1,6 @@
 # Welcome!
-<img align="right"
-    src="https://media0.giphy.com/media/wpQbnFOYFnWXATZOxR/giphy.gif?cid=ecf05e47jzbki8392xggokth3sohymunz75y2q3qzjuikl1t&ep=v1_stickers_search&rid=giphy.gif"
+<img align="left"
+    src="https://media1.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47irkx0225h3e8wdyv6wbkvj691crbwj4eo2h4eeeq&ep=v1_stickers_search&rid=giphy.gif"
     alt="Pusheen(grey kitty) laughing with house plants in the background"
     width="25%"
     height="auto">
