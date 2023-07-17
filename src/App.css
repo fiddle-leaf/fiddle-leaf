@@ -3,7 +3,7 @@
   grid-template: "";
 }
 
-.flex, aside.about div.about-text, nav > ul, aside.about, .App {
+.flex, aside.about div.about-text, nav > ul, aside.about, main.page, .App {
   display: flex;
 }
 
@@ -46,6 +46,8 @@
 }
 
 main.page {
+  flex-flow: column nowrap;
+  justify-content: space-around;
   flex: 1;
 }
 
