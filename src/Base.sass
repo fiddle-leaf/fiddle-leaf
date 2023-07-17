@@ -1,8 +1,133 @@
-$font: ''
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+
+$bit: 1em
+$font: 'Figtree', sans-serif
 $grid: ''
+$color: hsl(0, 0%, 10%)
+$accent-color: hsl(340, 100%, 20%)
+$accent: hsl(340, 99%, 87%)
+$accent-bg: hsl(340, 98%, 96%)
 
 .grid
     grid-template: $grid
-    
+
 .flex
     display: flex
+
+.App 
+    @extend .flex
+    flex-flow: column nowrap
+    min-height: 100vh
+    width: clamp(60vw, 80vw, 90vw)
+    margin: 0 auto
+    color: $color
+
+    font:
+        family: $font
+        size: $bit
+
+    img
+        width: 100%
+        height: auto
+
+    h1
+        font:
+            size: 2em
+            weight: 900
+    
+    h2
+        font:
+            size: 1.8em
+            weight: 800
+
+    h3
+        font:
+            size: 1.6em
+            weight: 700
+    
+    h4
+        font:
+            size: 1.4em
+            weight: 600
+    
+    h5
+        font: 
+            size: 1.2em
+            weight: 500
+
+    h6
+        font:
+            size: 0.9em
+            weight: 400
+
+main.page
+    flex: 1
+
+
+aside.about
+    @extend .flex
+    flex-flow: row wrap
+
+    div
+        flex: 1
+
+header,
+footer
+    flex: 0
+
+nav>ul
+    @extend .flex
+    list-style: none
+    justify-content: space-between
+
+    li
+        font-weight: 600
+
+section.projects
+    
+
+article.post
+    
+article.post>h3,
+nav>ul>li
+        background: $accent-bg
+        padding: calc($bit/4)
+        border-radius: 1px
+
+article.post>h3::before
+        content: url('https://pixel-folders.wavebeem.com/dist/png/16/code.png')
+        padding: 0 calc($bit/3)
+
+article.post>h3>a,
+nav>ul>li>a
+        color: $accent-color
+        text-decoration: none
+    
+aside.about
+    @extend .flex
+    flex-flow: row wrap
+    align-items: stretch
+
+    div.icon
+        flex: 1
+        background: $accent
+        border-bottom: calc($bit/2) solid $accent-bg
+        border-top: calc($bit/2) solid $accent-bg
+
+    div.about-text
+        @extend .flex
+        flex: 2
+        flex-flow: column nowrap
+        padding: 0 $bit
+
+    h4,
+    ul
+        margin-block: 0
+
+    ul
+        flex: 1
+        list-style: none
+        padding-inline: 0
+
+    mark#dev-name
+        background: $accent
