@@ -91,7 +91,7 @@ nav > ul > li > a {
 
 aside.about {
   flex-flow: row wrap;
-  align-items: stretch;
+  align-items: center;
 }
 aside.about div.icon {
   flex: 0 33%;
