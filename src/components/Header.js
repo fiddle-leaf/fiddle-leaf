@@ -3,7 +3,7 @@ import Navigation from "./Navigation";
 import PageTitle from "./PageTitle";
 
 export default function Header () {
-    const pageTitle = {title: "Welcome!"}
+    const pageTitle = {title: "Welcome to my Page."}
 
     return ( 
         <header>

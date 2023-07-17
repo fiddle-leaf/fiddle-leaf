@@ -1,7 +1,7 @@
 export default function Intro () {
     return (  
         <p>
-            Hi! I am a Software Engineering student passionate about colorful and sccessible User Inferface design.
+            Hi! I am a Software Engineering student passionate about colorful and accessible User Inferface design.
         </p>
     );
 }
