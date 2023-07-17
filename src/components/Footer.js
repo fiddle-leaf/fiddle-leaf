@@ -1,7 +1,7 @@
 export default function Footer () {
     return ( 
         <footer>
-            <p>Selunaar &copy; 2023.</p>
+            <p><a href="https://github.com/fiddle-leaf" alt="github">fiddle-leaf</a> &copy; 2023.</p>
         </footer>
      );
 }

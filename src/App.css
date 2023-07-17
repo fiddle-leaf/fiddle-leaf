@@ -100,6 +100,7 @@ aside.about ul.about-list {
   flex-flow: column nowrap;
   justify-content: space-around;
   list-style-image: url("https://64.media.tumblr.com/tumblr_lohoryRRTJ1qda978.gif");
+  gap: 0.25em;
 }
 aside.about ul.about-list mark#dev-name {
   background: hsl(340, 99%, 87%);
