@@ -112,15 +112,16 @@ aside.about
     align-items: stretch
 
     div.icon
-        flex: 1
+        flex: 0 33%
         background: $accent
         border-bottom: calc($bit/2) solid $accent-bg
         border-top: calc($bit/2) solid $accent-bg
 
     div.about-text
         @extend .flex
-        flex: 2
+        flex: 1
         flex-flow: column nowrap
+        justify-content: space-around
         padding: 0 $bit
 
     h4,
@@ -128,7 +129,7 @@ aside.about
         margin-block: 0
 
     ul
-        flex: 1
+        flex: 0
         list-style: none
         padding-inline: 0
 

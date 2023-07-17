@@ -94,14 +94,15 @@ aside.about {
   align-items: stretch;
 }
 aside.about div.icon {
-  flex: 1;
+  flex: 0 33%;
   background: hsl(340, 99%, 87%);
   border-bottom: 0.5em solid hsl(340, 98%, 96%);
   border-top: 0.5em solid hsl(340, 98%, 96%);
 }
 aside.about div.about-text {
-  flex: 2;
+  flex: 1;
   flex-flow: column nowrap;
+  justify-content: space-around;
   padding: 0 1em;
 }
 aside.about h4,
@@ -109,7 +110,7 @@ aside.about ul {
   margin-block: 0;
 }
 aside.about ul {
-  flex: 1;
+  flex: 0;
   list-style: none;
   padding-inline: 0;
 }
