@@ -8,8 +8,10 @@ export default function About () {
             <h4>
                 About Me
             </h4>
-            <ul>
-                <li><mark id="dev-name">Shanon</mark>, 26 year old Plant Mom.</li>
+            <ul className="about-list">
+                <li>
+                    <mark id="dev-name">Shanon</mark>, 26 year old Plant Mom.
+                    </li>
                 <li>Summertime Venusian girly.</li>
                 <li>Other-half to gamer-twin Kevin.</li>
                 <li>Missing my hometown Lima every single day.</li>

@@ -109,12 +109,14 @@ aside.about h4,
 aside.about ul {
   margin-block: 0;
 }
-aside.about ul {
+
+ul.about-list {
   flex: 0;
-  list-style: none;
+  list-style-image: url("https://64.media.tumblr.com/tumblr_lohoryRRTJ1qda978.gif");
   padding-inline: 0;
+  margin-inline-start: 1em;
 }
-aside.about mark#dev-name {
+ul.about-list mark#dev-name {
   background: hsl(340, 99%, 87%);
 }
 
