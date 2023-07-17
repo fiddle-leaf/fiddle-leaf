@@ -3,7 +3,7 @@
   grid-template: "";
 }
 
-.flex, aside.about div.about-text, nav > ul, aside.about, main.page, .App {
+.flex, aside.about ul.about-list, aside.about, nav > ul, main.page, .App {
   display: flex;
 }
 
@@ -34,7 +34,7 @@
 }
 .App h4 {
   font-size: 1.4em;
-  font-weight: 600;
+  font-weight: 700;
 }
 .App h5 {
   font-size: 1.2em;
@@ -50,12 +50,8 @@ main.page {
   justify-content: space-around;
   flex: 1;
 }
-
-aside.about {
-  flex-flow: row wrap;
-}
-aside.about div {
-  flex: 1;
+main.page h4 {
+  margin-block: 0;
 }
 
 header,
@@ -99,25 +95,17 @@ aside.about div.icon {
   border-bottom: 0.5em solid hsl(340, 98%, 96%);
   border-top: 0.5em solid hsl(340, 98%, 96%);
 }
-aside.about div.about-text {
+aside.about ul.about-list {
   flex: 1;
   flex-flow: column nowrap;
   justify-content: space-around;
-  padding: 0 1em;
+  list-style-image: url("https://64.media.tumblr.com/tumblr_lohoryRRTJ1qda978.gif");
 }
-aside.about h4,
+aside.about ul.about-list mark#dev-name {
+  background: hsl(340, 99%, 87%);
+}
 aside.about ul {
   margin-block: 0;
-}
-
-ul.about-list {
-  flex: 0;
-  list-style-image: url("https://64.media.tumblr.com/tumblr_lohoryRRTJ1qda978.gif");
-  padding-inline: 0;
-  margin-inline-start: 1em;
-}
-ul.about-list mark#dev-name {
-  background: hsl(340, 99%, 87%);
 }
 
 /*# sourceMappingURL=App.css.map */
