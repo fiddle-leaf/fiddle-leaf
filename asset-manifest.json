@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fiddle-leaf/static/css/main.33c0bfdc.css",
-    "main.js": "/fiddle-leaf/static/js/main.50856086.js",
+    "main.js": "/fiddle-leaf/static/js/main.516b0ccb.js",
     "static/js/787.08912632.chunk.js": "/fiddle-leaf/static/js/787.08912632.chunk.js",
     "static/media/logo.svg": "/fiddle-leaf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fiddle-leaf/index.html",
     "main.33c0bfdc.css.map": "/fiddle-leaf/static/css/main.33c0bfdc.css.map",
-    "main.50856086.js.map": "/fiddle-leaf/static/js/main.50856086.js.map",
+    "main.516b0ccb.js.map": "/fiddle-leaf/static/js/main.516b0ccb.js.map",
     "787.08912632.chunk.js.map": "/fiddle-leaf/static/js/787.08912632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c0bfdc.css",
-    "static/js/main.50856086.js"
+    "static/js/main.516b0ccb.js"
   ]
 }
