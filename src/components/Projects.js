@@ -21,7 +21,7 @@ export default function Projects () {
         <section className="projects">
             <h2>Projects on Github</h2>
             {projectsList.map(project =>{
-                return < Post project={project}/>
+                return < Post project={project} key={project.id}/>
             })}
         </section>
      );
