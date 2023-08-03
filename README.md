@@ -5,7 +5,7 @@
     width="33%">
 :stars: Peruana Software Engineer
 
-:pencil: Student at Per Scholas
+:pencil: Student at Per Scholas' Women in Software Engineering cohort
 
 :sparkling_heart: Web Design, Photography, & Mindfulness
 
