@@ -12,4 +12,4 @@
 :love_letter: Follow me on my journey in User Interface design
 
 ## Tools
-- HTML, CSS, JavaScript, React.js, SASS
+- HTML, CSS, Sass, and MERN Stack.
