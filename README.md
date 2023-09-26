@@ -17,4 +17,4 @@
 ## Projects in Works
 - **SELESIE**: my personal portfolio built with `create-react-app` using TailwindCSS.
 - **Vacation-Planner**: final MERN-stack project to plan vacations implementing sign-up and login functions with MongoDB, Express, and React.js.
-- **Astro-Birth-Day**: my MOD2 project using React.js and Redux.js to populate birthday details (forecast and moonphase data) using WeatherAPI.
+- **Astro-Birth-Day**: my MOD2 project using React.js and Redux.js to populate 2023 birthday details (forecast and moonphase data) using WeatherAPI.
