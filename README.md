@@ -1,9 +1,9 @@
 # Hi! I'm Shanon.
 
-Front-end Engineer focused on User Interface Design.
+Front-end Engineer focused on User Interface Design based in Rockville, Maryland.
 
 ## Tools
-- HTML, CSS, Sass, and MERN Stack.
+- HTML, CSS, Sass, and MERN (MongoDB, Express, React.js, Node.js) Stack for full-stack projects.
 
 ## Projects in Works
 - **SELESIE**: my personal portfolio built with React.js
