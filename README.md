@@ -1,6 +1,6 @@
 # Hi! I'm Shanon.
 
-Front-end Engineer focused on colorful and accessible User Interface Design.
+Web Developer focused on colorful and accessible User Interface design.
 
 ## Tools
 - HTML, CSS, Sass, and MERN (MongoDB, Express, React.js, Node.js) Stack for full-stack projects.
