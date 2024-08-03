@@ -3,7 +3,7 @@
 Web Developer focused on colorful and accessible User Interface design.
 
 ## Tools
-- HTML, CSS, Sass, and MERN (MongoDB, Express, React.js, Node.js) Stack for full-stack projects.
+- HTML, CSS, Sass, and MERN (MongoDB, Express, React.js, Node.js) for full-stack projects.
 
 ## Projects
 - **SELESIE**: my personal portfolio built with React.js
